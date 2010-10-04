@@ -1,0 +1,25 @@
+Changes
+GIF.pm
+GIF.xs
+imgif.c
+imgif.h
+inc/Devel/CheckLib.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+t/t10gif.t
+t/t20new.t
+testimg/badindex.gif
+testimg/bandw.gif
+testimg/expected.gif
+testimg/loccmap.gif
+testimg/nocmap.gif
+testimg/scale.gif
+testimg/scalei.gif
+testimg/screen2.gif
+testimg/screen3.gif
+testimg/trimgdesc.gif
+testimg/trmiddesc.gif
+testimg/zerocomm.gif
+META.yml                                 Module meta-data (added by MakeMaker)
