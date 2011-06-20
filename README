@@ -1,7 +1,7 @@
 Imager::File::GIF provides GIF file format support for Imager.
 
-It requires libpng to be installed.
+It requires libgif to be installed, including development headers.
 
-This is currently shipped as part of Imager, but in the future it will
-be removed from Imager, if your module or application requires GIF
-support then add Imager::File::GIF as a prerequisite.
+This is currently shipped as part of Imager, but Imager may install
+with out installing Imager::File::GIF, so if you need GIF support, add
+a dependency on Imager::File::GIF.

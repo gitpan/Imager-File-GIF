@@ -5,11 +5,12 @@ imgif.c
 imgif.h
 inc/Devel/CheckLib.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 MANIFEST.SKIP
 README
 t/t10gif.t
 t/t20new.t
+t/t30fixed.t
 testimg/badindex.gif
 testimg/bandw.gif
 testimg/expected.gif
