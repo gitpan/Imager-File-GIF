@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Imager-File-GIF
-version:            0.83
+version:            0.84
 abstract:           GIF Image file support
 author:
     - Tony Cook <tonyc@cpan.org>
