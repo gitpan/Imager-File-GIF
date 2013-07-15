@@ -25,4 +25,5 @@ testimg/screen3.gif
 testimg/trimgdesc.gif
 testimg/trmiddesc.gif
 testimg/zerocomm.gif
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
